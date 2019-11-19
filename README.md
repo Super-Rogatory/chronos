@@ -4,7 +4,7 @@ Welcome to Chukwudi Ikem's Portfolio website. The purpose of Chronos is to displ
 
 ## Why Chronos?
 
-- blah blah -
+blah blah
 
 ### TheChronosShow
 
