@@ -1,6 +1,12 @@
 # Home
+Welcome to Chukwudi Ikem's Portfolio website. The purpose of Chronos is to display all of the amazing work I have had the pleasure of creating this Fall 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why Chronos?
+- blah blah -
+
+### TheChronosShow
+
+### [Project](https://super-rogatory.github.io/chronos/) 
 
 ```markdown
 Syntax highlighted code block
