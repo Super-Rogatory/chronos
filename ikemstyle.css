@@ -1,5 +1,5 @@
 .hub{
-  background-image: url(/home/superrogatory/Downloads/websitepicture1.jpg);
+  background-image: url("websitepicture1.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   background-size: cover;
