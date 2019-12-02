@@ -31,3 +31,20 @@ header{
       color: #fff;
       text-transform: uppercase;
     }
+.logo{
+ text-decoration: none;
+  color: #fff;
+  font-size: 35px;
+  font-family: ubuntu;
+  padding: 20px 0;
+  width: 20%;
+  float: left;
+}
+.text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+}
